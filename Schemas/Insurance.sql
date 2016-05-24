@@ -1,0 +1,3 @@
+CREATE SCHEMA [Insurance]
+	AUTHORIZATION [dbo]
+GO
