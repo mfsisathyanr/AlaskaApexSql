@@ -1,4 +1,0 @@
-CREATE USER [himanshus]
-	WITHOUT LOGIN
-	WITH DEFAULT_SCHEMA = [dbo]
-GO
