@@ -1,3 +1,0 @@
-CREATE SCHEMA [Complaints]
-	AUTHORIZATION [dbo]
-GO
